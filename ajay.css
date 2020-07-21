@@ -6,4 +6,5 @@ body {
 h1 {
   color: cyan;
   margin-left: 20px;
+  text-align: center;
 }
